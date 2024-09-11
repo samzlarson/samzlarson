@@ -2,6 +2,7 @@
 - 👀 I’m interested in querying large datasets and webscrapping
 - 🌱 I’m currently learning SQL and Python
 - Email: samzlarson@gmail.com
+- Linkedin: linkedin.com/in/sam-larson
 
 <!---
 samzlarson/samzlarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
